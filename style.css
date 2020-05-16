@@ -1,0 +1,12 @@
+.message{
+  
+    width: 65%;
+    border: 6px solid #b0b9c0;
+}
+.font{
+    color: #60707a;
+    font-family: 'Montserrat', sans-serif;
+}
+.title{
+    margin-bottom: 155px;
+}
