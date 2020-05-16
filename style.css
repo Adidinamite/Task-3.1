@@ -1,12 +1,20 @@
 .message{
-  
     width: 65%;
     border: 6px solid #b0b9c0;
+    padding: 0px 0 10px;
 }
 .font{
     color: #60707a;
     font-family: 'Montserrat', sans-serif;
 }
 .title{
-    margin-bottom: 155px;
+    margin-top: -51px;
+    display: flex;
+    margin-left: 70px;
+}
+.text
+{
+    margin-top:9x;
+    display:flex;
+    margin-left: 70px;
 }
