@@ -1,20 +1,18 @@
-.message{
-    width: 65%;
-    border: 6px solid #0191ff;
-    padding: 0px 0 10px;
-}
 .font{
     color: #60707a;
     font-family: 'Montserrat', sans-serif;
 }
-.title{
-    margin-top: -51px;
-    display: flex;
-    margin-left: 70px;
+.userName{
+    font-weight: bold;
 }
-.text
-{
-    margin-top:9x;
+.container{
+    border: 5px solid #0191ff;
+    padding : 11px;
     display:flex;
-    margin-left: 70px;
+}
+.containerText{
+    padding : 5px 0;
+}
+.image{
+    width: 55px;height:55px;
 }
